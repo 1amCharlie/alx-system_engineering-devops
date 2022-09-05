@@ -1,0 +1,1 @@
+in this directory we will be looking at shell redirections
