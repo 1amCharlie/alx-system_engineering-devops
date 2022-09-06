@@ -1,0 +1,1 @@
+in this directory we are going to be looing at shell variables expansions we will be moving through a series of excercises in order to accomplish this.
